@@ -1,5 +1,7 @@
 # CVPR2021 'Pseudo Facial Generation with Extreme Poses for Face Recognition'
 
+Guoli Wang, Jiaqi Ma, Qian Zhang, Jiwen Lu, Jie Zhou; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 1994-2003
+
 Under construction.
 Release the code before the middle of August.
 <!-- A simple and well designed structure is essential for any Deep Learning project, so after a lot practice and contributing in pytorch projects here's a pytorch project template that combines **simplicity, best practice for folder structure** and **good OOP design**. 
