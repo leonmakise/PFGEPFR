@@ -2,7 +2,24 @@
 
 Guoli Wang, Jiaqi Ma, Qian Zhang, Jiwen Lu, Jie Zhou; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 1994-2003
 
-The code will be released at the end of August. If you have any questions, you can send email to wangguoli1990@mail.tsinghua.edu.cn and jiaqima@whu.edu.cn.
+Due to the ddls these days, the code will be released later. If you have any questions, you can send email to wangguoli1990@mail.tsinghua.edu.cn and jiaqima@whu.edu.cn.
+
+
+
+If you find this project useful in your research, please consider citing:
+
+@inproceedings{DBLP:conf/cvpr/WangM0L021,
+  author    = {Guoli Wang and
+               Jiaqi Ma and
+               Qian Zhang and
+               Jiwen Lu and
+               Jie Zhou},
+  title     = {Pseudo Facial Generation With Extreme Poses for Face Recognition},
+  booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR}
+               2021, virtual, June 19-25, 2021},
+  pages     = {1994--2003},
+  year      = {2021},
+}
 <!-- A simple and well designed structure is essential for any Deep Learning project, so after a lot practice and contributing in pytorch projects here's a pytorch project template that combines **simplicity, best practice for folder structure** and **good OOP design**. 
 The main idea is that there's much same stuff you do every time when you start your pytorch project, so wrapping all this shared stuff will help you to change just the core idea every time you start a new pytorch project. 
 
