@@ -37,6 +37,9 @@ Considering that the original LightCNN_V2is based on an old environment, so we n
 
 **You can also try some other versions (Most of GPUs are now Nvidia 30s, and they do not support CUDA lower than 11.0), but you may encounter some dependency problems which can be easily fixed by changing some out-of-date functions.**
 
+# Models
+## [LightCNN](https://drive.google.com/file/d/1EZfWKwvDNnFYJo0qrbBH43d4qbdkqt7J/view?usp=sharing)
+`lightCNN_152_checkpoint.pth.tar`
 # Datasets
 ## [MultiPIE](https://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html)
 <!-- ## [CFP](http://www.cfpw.io)
